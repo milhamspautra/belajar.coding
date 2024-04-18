@@ -1,3 +1,7 @@
+#cara membuat variable <nama variable> = <isi variable>
+#input adalah perintah untuk memasukkan dari user
+#print adalah perintah untuk mencetak output yang diinginkan
+#output adalah hasil keluaran dari perintah
 a = int(input("masukkan angka #1"))
 b = int(input("masukkan angka #2"))
 penjumlahan = a+b

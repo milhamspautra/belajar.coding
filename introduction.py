@@ -1,0 +1,6 @@
+print ("nama saya ilham")
+print ("saya seorang laki-laki")
+print ("saya 18 tahun")
+print ("saya anak bungsu")
+print ("saya punya kakak")
+print (5+6-8)

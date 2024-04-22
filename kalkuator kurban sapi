@@ -1,4 +1,5 @@
 #kalkuator kurban adalah alat yang digunakan untuk menghitung jumlah dan jenis hewan kurban 
+#rumus = harga jual sapi dibagi jumlah pengurban 
 a = int(input("masukkan angka pertama : 500"))
 b = int(input("masukkan angka kedua : 5"))
 pembagian = a/b
